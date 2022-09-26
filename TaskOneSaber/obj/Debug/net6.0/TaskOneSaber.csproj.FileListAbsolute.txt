@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\bin\Debug\net6.0\TaskOneSaber.exe
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\bin\Debug\net6.0\TaskOneSaber.deps.json
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\bin\Debug\net6.0\TaskOneSaber.runtimeconfig.json
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\bin\Debug\net6.0\TaskOneSaber.dll
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\bin\Debug\net6.0\TaskOneSaber.pdb
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.AssemblyInfo.cs
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.dll
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\refint\TaskOneSaber.dll
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.pdb
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\TaskOneSaber.genruntimeconfig.cache
+C:\Users\PC\source\repos\TaskOneSaber\TaskOneSaber\obj\Debug\net6.0\ref\TaskOneSaber.dll
